@@ -1,4 +1,4 @@
-# E-commerce-marketing-and-website-traffic-analysis
+# Volltreffer E-commerce-marketing-and-website-traffic-analysis
 
 This project focused on analysing e-commerce website data and marketing campaigns, optimizing traffic sources, and improving conversion rates. The goal was to derive strategic insights to enhance marketing efficiency and drive business growth.
 
